@@ -22,4 +22,4 @@ Intro to Machine Learn - Level 1
 11. Exercise: Random Forests
 12. Exercise: Machine Learning Competitions
 
-Took about 2 hours to complete - definitely work it. Finally, I got some exposure to coding, not just watching videos!
+Took about 2 hours to complete - definitely worth it. Finally, I got some exposure to coding, not just watching videos!
